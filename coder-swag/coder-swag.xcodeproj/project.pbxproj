@@ -85,6 +85,32 @@
 			path = "coder-swag";
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
+		85BF701A227598AD0070FC1C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				85BF701D2275F0330070FC1C /* CategoryCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		85BF701B2275EF880070FC1C /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				85BF700A227598000070FC1C /* CategoriesVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		85BF701C2275EF970070FC1C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+||||||| 03a8b81
+=======
 		85BF701A227598AD0070FC1C /* View */ = {
 			isa = PBXGroup;
 			children = (
@@ -116,6 +142,7 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
+>>>>>>> master
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -189,6 +216,10 @@
 			files = (
 				85BF700B227598000070FC1C /* CategoriesVC.swift in Sources */,
 				85BF7009227598000070FC1C /* AppDelegate.swift in Sources */,
+<<<<<<< HEAD
+				85BF701E2275F0330070FC1C /* CategoryCell.swift in Sources */,
+||||||| 03a8b81
+=======
 				85BF701E2275F0330070FC1C /* CategoryCell.swift in Sources */,
 <<<<<<< HEAD
 				8596529B22912EE100F09A4D /* Category.swift in Sources */,
@@ -199,6 +230,7 @@
 				8596529B22912EE100F09A4D /* Category.swift in Sources */,
 				8596529E2291354200F09A4D /* DataService.swift in Sources */,
 				85ED01AA22A10D3E0080854D /* Product.swift in Sources */,
+>>>>>>> master
 >>>>>>> master
 			);
 			runOnlyForDeploymentPostprocessing = 0;
